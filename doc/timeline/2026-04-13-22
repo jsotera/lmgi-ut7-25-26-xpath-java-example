@@ -1,0 +1,10 @@
+<div class="col-12 col-md-6 col-lg-3">
+    <div class="card weather-card text-center p-4">
+        <div class="text-muted mb-2">22:00</div>
+        <div class="weather-icon text-warning"><i class="fas fa-sun"></i></div>
+        <div class="status-text">Despejado</div>
+        <div class="temp-display">7°C</div>
+        <div class="humidity"><i class="fas fa-droplet"></i> Humedad: 81%</div>
+    </div>
+</div>
+

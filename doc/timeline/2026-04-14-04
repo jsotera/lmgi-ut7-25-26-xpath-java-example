@@ -1,0 +1,10 @@
+<div class="col-12 col-md-6 col-lg-3">
+    <div class="card weather-card text-center p-4">
+        <div class="text-muted mb-2">04:00</div>
+        <div class="weather-icon text-secondary"><i class="fas fa-cloud"></i></div>
+        <div class="status-text">Poco nuboso</div>
+        <div class="temp-display">2°C</div>
+        <div class="humidity"><i class="fas fa-droplet"></i> Humedad: 98%</div>
+    </div>
+</div>
+

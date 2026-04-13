@@ -1,1 +1,715 @@
-17n 17n 15n 14n 16n 16n 16 46 16 46 46 46 16 46 46 16 16 46 46 46n 46n 16n 0 0 0 0 0 0 0 0.1 0 0.1 0.1 0.1 0 0.1 0.1 0 0 0.1 0.1 0.2 0.1 0 0 90 100 100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 4 4 4 4 4 5 6 7 8 9 10 10 10 10 10 10 10 11 10 10 2 1 1 1 1 1 2 3 5 6 7 10 10 10 10 10 10 10 11 10 10 80 83 85 82 83 85 83 82 80 80 77 75 76 75 75 80 80 82 84 90 83 N 12 20 N 12 19 N 11 18 N 11 19 N 11 21 N 13 22 N 12 23 NO 13 23 NO 10 19 NO 11 24 NO 13 25 NO 14 28 NO 16 28 NO 16 27 NO 14 25 NO 14 30 NO 18 31 NO 18 45 NO 27 50 N 26 51 N 26 45
+<indice tema="HTML">
+	<h1 id="1">
+		<titulo>HTML HOME</titulo>
+		<enlace>https://www.w3schools.com/html/default.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Introduction</titulo>
+		<enlace>https://www.w3schools.com/html/html_intro.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Editors</titulo>
+		<enlace>https://www.w3schools.com/html/html_editors.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Basic</titulo>
+		<enlace>https://www.w3schools.com/html/html_basic.asp</enlace>
+		<h2 id="1">
+			<titulo>Basic</titulo>
+			<enlace>https://www.w3schools.com/html/html_basic.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_basic.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Elements</titulo>
+		<enlace>https://www.w3schools.com/html/html_elements.asp</enlace>
+		<h2 id="1">
+			<titulo>Elements</titulo>
+			<enlace>https://www.w3schools.com/html/html_elements.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_elements.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Attributes</titulo>
+		<enlace>https://www.w3schools.com/html/html_attributes.asp</enlace>
+		<h2 id="1">
+			<titulo>Attributes</titulo>
+			<enlace>https://www.w3schools.com/html/html_attributes.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_attributes.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Headings</titulo>
+		<enlace>https://www.w3schools.com/html/html_headings.asp</enlace>
+		<h2 id="1">
+			<titulo>Headings</titulo>
+			<enlace>https://www.w3schools.com/html/html_headings.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_headings.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Paragraphs</titulo>
+		<enlace>https://www.w3schools.com/html/html_paragraphs.asp</enlace>
+		<h2 id="1">
+			<titulo>Paragraphs</titulo>
+			<enlace>https://www.w3schools.com/html/html_paragraphs.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_paragraphs.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Styles</titulo>
+		<enlace>https://www.w3schools.com/html/html_styles.asp</enlace>
+		<h2 id="1">
+			<titulo>Styles</titulo>
+			<enlace>https://www.w3schools.com/html/html_styles.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_styles.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Formatting</titulo>
+		<enlace>https://www.w3schools.com/html/html_formatting.asp</enlace>
+		<h2 id="1">
+			<titulo>Formatting</titulo>
+			<enlace>https://www.w3schools.com/html/html_formatting.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_formatting.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Quotations</titulo>
+		<enlace>https://www.w3schools.com/html/html_quotation_elements.asp</enlace>
+		<h2 id="1">
+			<titulo>Quotations</titulo>
+			<enlace>https://www.w3schools.com/html/html_quotation_elements.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_quotations.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Comments</titulo>
+		<enlace>https://www.w3schools.com/html/html_comments.asp</enlace>
+		<h2 id="1">
+			<titulo>Comments</titulo>
+			<enlace>https://www.w3schools.com/html/html_comments.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_comments.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Colors</titulo>
+		<enlace>https://www.w3schools.com/html/html_colors.asp</enlace>
+		<h2 id="1">
+			<titulo>Colors</titulo>
+			<enlace>https://www.w3schools.com/html/html_colors.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>RGB</titulo>
+			<enlace>https://www.w3schools.com/html/html_colors_rgb.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>HEX</titulo>
+			<enlace>https://www.w3schools.com/html/html_colors_hex.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>HSL</titulo>
+			<enlace>https://www.w3schools.com/html/html_colors_hsl.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_colors.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML CSS</titulo>
+		<enlace>https://www.w3schools.com/html/html_css.asp</enlace>
+		<h2 id="1">
+			<titulo>CSS</titulo>
+			<enlace>https://www.w3schools.com/html/html_css.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_css.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Links</titulo>
+		<enlace>https://www.w3schools.com/html/html_links.asp</enlace>
+		<h2 id="1">
+			<titulo>Links</titulo>
+			<enlace>https://www.w3schools.com/html/html_links.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Link Colors</titulo>
+			<enlace>https://www.w3schools.com/html/html_links_colors.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Link Bookmarks</titulo>
+			<enlace>https://www.w3schools.com/html/html_links_bookmarks.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_links.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Images</titulo>
+		<enlace>https://www.w3schools.com/html/html_images.asp</enlace>
+		<h2 id="1">
+			<titulo>Images</titulo>
+			<enlace>https://www.w3schools.com/html/html_images.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Image Map</titulo>
+			<enlace>https://www.w3schools.com/html/html_images_imagemap.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Background Images</titulo>
+			<enlace>https://www.w3schools.com/html/html_images_background.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>The Picture Element</titulo>
+			<enlace>https://www.w3schools.com/html/html_images_picture.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_images.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Favicon</titulo>
+		<enlace>https://www.w3schools.com/html/html_favicon.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Page Title</titulo>
+		<enlace>https://www.w3schools.com/html/html_page_title.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Tables</titulo>
+		<enlace>https://www.w3schools.com/html/html_tables.asp</enlace>
+		<h2 id="1">
+			<titulo>HTML Tables</titulo>
+			<enlace>https://www.w3schools.com/html/html_tables.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Table Borders</titulo>
+			<enlace>https://www.w3schools.com/html/html_table_borders.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Table Sizes</titulo>
+			<enlace>https://www.w3schools.com/html/html_table_sizes.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Table Headers</titulo>
+			<enlace>https://www.w3schools.com/html/html_table_headers.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Padding & Spacing</titulo>
+			<enlace>https://www.w3schools.com/html/html_table_padding_spacing.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Colspan & Rowspan</titulo>
+			<enlace>https://www.w3schools.com/html/html_table_colspan_rowspan.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Table Styling</titulo>
+			<enlace>https://www.w3schools.com/html/html_table_styling.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Table Colgroup</titulo>
+			<enlace>https://www.w3schools.com/html/html_table_colgroup.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_tables.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Lists</titulo>
+		<enlace>https://www.w3schools.com/html/html_lists.asp</enlace>
+		<h2 id="1">
+			<titulo>Lists</titulo>
+			<enlace>https://www.w3schools.com/html/html_lists.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Unordered Lists</titulo>
+			<enlace>https://www.w3schools.com/html/html_lists_unordered.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Ordered Lists</titulo>
+			<enlace>https://www.w3schools.com/html/html_lists_ordered.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Other Lists</titulo>
+			<enlace>https://www.w3schools.com/html/html_lists_other.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_lists.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Block & Inline</titulo>
+		<enlace>https://www.w3schools.com/html/html_blocks.asp</enlace>
+		<h2 id="1">
+			<titulo>Block & Inline</titulo>
+			<enlace>https://www.w3schools.com/html/html_blocks.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_blocks.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Div</titulo>
+		<enlace>https://www.w3schools.com/html/html_div.asp</enlace>
+		<h2 id="1">
+			<titulo>Div</titulo>
+			<enlace>https://www.w3schools.com/html/html_div.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_div.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Classes</titulo>
+		<enlace>https://www.w3schools.com/html/html_classes.asp</enlace>
+		<h2 id="1">
+			<titulo>Classes</titulo>
+			<enlace>https://www.w3schools.com/html/html_classes.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_classes.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Id</titulo>
+		<enlace>https://www.w3schools.com/html/html_id.asp</enlace>
+		<h2 id="1">
+			<titulo>Id</titulo>
+			<enlace>https://www.w3schools.com/html/html_id.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_id.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Buttons</titulo>
+		<enlace>https://www.w3schools.com/html/html_buttons.asp</enlace>
+		<h2 id="1">
+			<titulo>Buttons</titulo>
+			<enlace>https://www.w3schools.com/html/html_buttons.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_buttons.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Iframes</titulo>
+		<enlace>https://www.w3schools.com/html/html_iframe.asp</enlace>
+		<h2 id="1">
+			<titulo>Iframes</titulo>
+			<enlace>https://www.w3schools.com/html/html_iframe.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_iframes.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML JavaScript</titulo>
+		<enlace>https://www.w3schools.com/html/html_scripts.asp</enlace>
+		<h2 id="1">
+			<titulo>JavaScript</titulo>
+			<enlace>https://www.w3schools.com/html/html_scripts.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_scripts.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML File Paths</titulo>
+		<enlace>https://www.w3schools.com/html/html_filepaths.asp</enlace>
+		<h2 id="1">
+			<titulo>File Paths</titulo>
+			<enlace>https://www.w3schools.com/html/html_filepaths.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_filepaths.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Head</titulo>
+		<enlace>https://www.w3schools.com/html/html_head.asp</enlace>
+		<h2 id="1">
+			<titulo>Head</titulo>
+			<enlace>https://www.w3schools.com/html/html_head.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_head.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Layout</titulo>
+		<enlace>https://www.w3schools.com/html/html_layout.asp</enlace>
+		<h2 id="1">
+			<titulo>Layout</titulo>
+			<enlace>https://www.w3schools.com/html/html_layout.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_layout.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Responsive</titulo>
+		<enlace>https://www.w3schools.com/html/html_responsive.asp</enlace>
+		<h2 id="1">
+			<titulo>Responsive</titulo>
+			<enlace>https://www.w3schools.com/html/html_responsive.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_responsive.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Computercode</titulo>
+		<enlace>https://www.w3schools.com/html/html_computercode_elements.asp</enlace>
+		<h2 id="1">
+			<titulo>Computercode</titulo>
+			<enlace>https://www.w3schools.com/html/html_computercode_elements.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_computercode.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Semantics</titulo>
+		<enlace>https://www.w3schools.com/html/html5_semantic_elements.asp</enlace>
+		<h2 id="1">
+			<titulo>Semantics</titulo>
+			<enlace>https://www.w3schools.com/html/html5_semantic_elements.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_semantics.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Style Guide</titulo>
+		<enlace>https://www.w3schools.com/html/html5_syntax.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Entities</titulo>
+		<enlace>https://www.w3schools.com/html/html_entities.asp</enlace>
+		<h2 id="1">
+			<titulo>Entities</titulo>
+			<enlace>https://www.w3schools.com/html/html_entities.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_entities.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Symbols</titulo>
+		<enlace>https://www.w3schools.com/html/html_symbols.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Emojis</titulo>
+		<enlace>https://www.w3schools.com/html/html_emojis.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Charsets</titulo>
+		<enlace>https://www.w3schools.com/html/html_charset.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML URL Encode</titulo>
+		<enlace>https://www.w3schools.com/html/html_urlencode.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML vs. XHTML</titulo>
+		<enlace>https://www.w3schools.com/html/html_xhtml.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Forms</titulo>
+		<enlace>https://www.w3schools.com/html/html_forms.asp</enlace>
+		<h2 id="1">
+			<titulo>Forms</titulo>
+			<enlace>https://www.w3schools.com/html/html_forms.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_forms.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Form Attributes</titulo>
+		<enlace>https://www.w3schools.com/html/html_forms_attributes.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Form Elements</titulo>
+		<enlace>https://www.w3schools.com/html/html_form_elements.asp</enlace>
+		<h2 id="1">
+			<titulo>Form Elements</titulo>
+			<enlace>https://www.w3schools.com/html/html_form_elements.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_form_elements.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Input Types</titulo>
+		<enlace>https://www.w3schools.com/html/html_form_input_types.asp</enlace>
+		<h2 id="1">
+			<titulo>Input Types</titulo>
+			<enlace>https://www.w3schools.com/html/html_form_input_types.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_input_types.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Input Attributes</titulo>
+		<enlace>https://www.w3schools.com/html/html_form_attributes.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>Input Form Attributes</titulo>
+		<enlace>https://www.w3schools.com/html/html_form_attributes_form.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Canvas</titulo>
+		<enlace>https://www.w3schools.com/html/html5_canvas.asp</enlace>
+		<h2 id="1">
+			<titulo>Canvas</titulo>
+			<enlace>https://www.w3schools.com/html/html5_canvas.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_canvas.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML SVG</titulo>
+		<enlace>https://www.w3schools.com/html/html5_svg.asp</enlace>
+		<h2 id="1">
+			<titulo>SVG</titulo>
+			<enlace>https://www.w3schools.com/html/html5_svg.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_svg.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Media</titulo>
+		<enlace>https://www.w3schools.com/html/html_media.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Video</titulo>
+		<enlace>https://www.w3schools.com/html/html5_video.asp</enlace>
+		<h2 id="1">
+			<titulo>Video</titulo>
+			<enlace>https://www.w3schools.com/html/html5_video.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_video.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Audio</titulo>
+		<enlace>https://www.w3schools.com/html/html5_audio.asp</enlace>
+		<h2 id="1">
+			<titulo>Audio</titulo>
+			<enlace>https://www.w3schools.com/html/html5_audio.asp</enlace>
+		</h2>
+		<h2 id="1">
+			<titulo>Code Challenge</titulo>
+			<enlace>https://www.w3schools.com/html/html_challenges_audio.asp</enlace>
+		</h2>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Plug-ins</titulo>
+		<enlace>https://www.w3schools.com/html/html_object.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML YouTube</titulo>
+		<enlace>https://www.w3schools.com/html/html_youtube.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Web APIs</titulo>
+		<enlace>https://www.w3schools.com/html/html5_api_whatis.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Geolocation</titulo>
+		<enlace>https://www.w3schools.com/html/html5_geolocation.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Drag and Drop</titulo>
+		<enlace>https://www.w3schools.com/html/html5_draganddrop.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Web Storage</titulo>
+		<enlace>https://www.w3schools.com/html/html5_webstorage.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Web Workers</titulo>
+		<enlace>https://www.w3schools.com/html/html5_webworkers.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML SSE</titulo>
+		<enlace>https://www.w3schools.com/html/html5_serversentevents.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Examples</titulo>
+		<enlace>https://www.w3schools.com/html/html_examples.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Editor</titulo>
+		<enlace>https://www.w3schools.com/html/html_editor.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Quiz</titulo>
+		<enlace>https://www.w3schools.com/html/html_quiz.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Exercises</titulo>
+		<enlace>https://www.w3schools.com/html/html_exercises.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Challenges</titulo>
+		<enlace>https://www.w3schools.com/html/html_challenges.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Website</titulo>
+		<enlace>https://www.w3schools.com/html/html_website.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Syllabus</titulo>
+		<enlace>https://www.w3schools.com/html/html_syllabus.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Study Plan</titulo>
+		<enlace>https://www.w3schools.com/html/html_study_plan.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Interview Prep</titulo>
+		<enlace>https://www.w3schools.com/html/html_interview_prep.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Bootcamp</titulo>
+		<enlace>https://www.w3schools.com/html/html_bootcamp.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Certificate</titulo>
+		<enlace>https://www.w3schools.com/html/html_exam.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Summary</titulo>
+		<enlace>https://www.w3schools.com/html/html_summary.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Accessibility</titulo>
+		<enlace>https://www.w3schools.com/html/html_accessibility.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Tag List</titulo>
+		<enlace>https://www.w3schools.com/tags/default.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Attributes</titulo>
+		<enlace>https://www.w3schools.com/tags/ref_attributes.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Global Attributes</titulo>
+		<enlace>https://www.w3schools.com/tags/ref_standardattributes.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Browser Support</titulo>
+		<enlace>https://www.w3schools.com/tags/ref_html_browsersupport.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Events</titulo>
+		<enlace>https://www.w3schools.com/tags/ref_eventattributes.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Colors</titulo>
+		<enlace>https://www.w3schools.com/tags/ref_colornames.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Canvas</titulo>
+		<enlace>https://www.w3schools.com/tags/ref_canvas.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Audio/Video</titulo>
+		<enlace>https://www.w3schools.com/tags/ref_av_dom.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Doctypes</titulo>
+		<enlace>https://www.w3schools.com/tags/ref_html_dtd.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Character Sets</titulo>
+		<enlace>https://www.w3schools.com/tags/ref_charactersets.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML URL Encode</titulo>
+		<enlace>https://www.w3schools.com/tags/ref_urlencode.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTML Lang Codes</titulo>
+		<enlace>https://www.w3schools.com/tags/ref_language_codes.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTTP Messages</titulo>
+		<enlace>https://www.w3schools.com/tags/ref_httpmessages.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>HTTP Methods</titulo>
+		<enlace>https://www.w3schools.com/tags/ref_httpmethods.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>PX to EM Converter</titulo>
+		<enlace>https://www.w3schools.com/tags/ref_pxtoemconversion.asp</enlace>
+	</h1>
+	<h1 id="1">
+		<titulo>Keyboard Shortcuts</titulo>
+		<enlace>https://www.w3schools.com/tags/ref_keyboardshortcuts.asp</enlace>
+	</h1>
+</indice>
+
